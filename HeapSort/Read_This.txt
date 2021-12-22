@@ -1,3 +1,5 @@
 
 This is heap sort using the implementation in CLRS algorithms textbook.
 I used <algorithm> to test each function I implemented from the textbook.
+Some of the code lines may need to be uncommented to work. 
+This was done for my algorithms course (CS 3112) at CSULA.
