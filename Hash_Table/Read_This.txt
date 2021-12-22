@@ -1,4 +1,6 @@
 
 These codes implement a simple hash table with no hash table slot collision resolution.
-I cannot guarantee the everything in the files will work. Also these were written and tests on Microsoft Visual Studio on Windows 7.
+I cannot guarantee that everything in the files will work. Also these were written and tested on Microsoft Visual Studio on Windows 7.
+These were done as practice on implementing a hash table in C++.
+The "Somebody" class was originally created to test the hashing procedure done on a user defined class.
 
