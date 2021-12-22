@@ -1,0 +1,9 @@
+
+These files implement a basic binary tree with no access to the parent.
+I simply used recursion and post order traversal for the destructor.
+For the deletion method, I used an iterative approach to locate the nodes and used the successor node approach.
+For the insertion method, I used an iterative approach as well to locate the position of the node to insert.
+Also the way the insertion and deletion are implemented, nodes with duplicate values are allowed.
+I implemented a recursive in order traversal to test the implementation.
+Note that I cannot guarantee that everything will work. These were written and tested on Microsoft Visual Studio and on Windows 7.
+
