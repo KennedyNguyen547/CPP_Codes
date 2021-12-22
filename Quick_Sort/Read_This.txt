@@ -1,0 +1,5 @@
+
+This is quick sort using the implementation in the CLRS algorithms textbook.
+I added templates out of practice.
+Note that to avoid conflicts, operator "<=" should be overloaded for your class.
+This was done for my algorithms class (CS 3112) at CSULA.
