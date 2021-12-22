@@ -1,0 +1,17 @@
+
+These files are my current interpretation of implementing an old exam from a math course from ELAC.
+The original prompt states that the class must implement a rudimentary 2D shooting game using BGI (Borland Graphics Interface).
+The opponents are ball objects that must constantly move. There was no condition that the there should be collision checking between the opponent ball objects.
+The opponent ball objects can only occupy the top half of the window. The original size was 800x600 WxH. 
+The player controlled object must be a pentagon, the orientation was not specified. The player can only move left or right and the bottom of the pentagon must always
+touch the bottom of the window.
+The player must be able to shoot "bullets". The extra credit was awarded to students who designed "custom bullet" objects.
+The objective of the game is that there are three phases.
+The first phase spawns only one giant ball object. If the player's fired projectile collides with the giant ball, the first phase ends and the next phase begins.
+The second phase, two more smaller ball objects spawn. If the player's fired projectiles collides with a ball object, that ball disappears from the screen as 
+well as the player's projectile that collided . If all ball objects are "destoryed", the third phase begins.
+The third phase, four ball objects are spawned. If the player's fired projectiles collides with a ball object, same as in the second phase, the objects involved
+in the collision are "destroyed". If all ball objects are destoryed, the game ends.
+
+There was a time constraint on the number of "bullets" the player can shoot. that I did not implement. At the time the professor wanted my class to implement a Timer class
+using <time.h>. If I were to implement the constraint, I would use <chronos>. I was introduced to the chronos library by another C++ professor.
