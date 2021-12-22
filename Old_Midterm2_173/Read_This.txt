@@ -15,3 +15,4 @@ in the collision are "destroyed". If all ball objects are destoryed, the game en
 
 There was a time constraint on the number of "bullets" the player can shoot. that I did not implement. At the time the professor wanted my class to implement a Timer class
 using <time.h>. If I were to implement the constraint, I would use <chronos>. I was introduced to the chronos library by another C++ professor.
+
