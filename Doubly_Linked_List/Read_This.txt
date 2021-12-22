@@ -1,0 +1,3 @@
+
+These files implement a basic doubly linked list.
+I cannot guarantee that everything will work. These files were written on Microsoft Visual Studio and on Windows 7.
