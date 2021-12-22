@@ -1,0 +1,6 @@
+
+This was an old project for a math-based object-oriented programming class.
+The code manipulates the console to draw a maze and has a solver function to recursively solve the drawn maze using
+the standard depth first search algorithm.
+As far as I know, to compile this file your compiler needs to have <windows.h>.
+
