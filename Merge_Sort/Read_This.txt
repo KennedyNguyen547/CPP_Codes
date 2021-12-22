@@ -2,4 +2,4 @@
 This is merge sort using the implementation in the CLRS algorithms textbook.
 I added templates out of practice.
 Note that to avoid conflicts, you may need to overload operators ">", "<", ">=", and "<=" for your user defined class.
-
+This was done for my algorithms class (CS 3112) at CSULA.
