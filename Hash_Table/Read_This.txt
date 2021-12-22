@@ -1,0 +1,4 @@
+
+These codes implement a simple hash table with no hash table slot collision resolution.
+I cannot guarantee the everything in the files will work. Also these were written and tests on Microsoft Visual Studio on Windows 7.
+
