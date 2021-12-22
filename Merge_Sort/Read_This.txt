@@ -1,0 +1,5 @@
+
+This is merge sort using the implementation in the CLRS algorithms textbook.
+I added templates out of practice.
+Note that to avoid conflicts, you may need to overload operators ">", "<", ">=", and "<=" for your user defined class.
+
